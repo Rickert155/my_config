@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =3
+let g:netrw_dirhist_3='/usr/local'
+let g:netrw_dirhist_2='/usr/local/etc'
+let g:netrw_dirhist_1='/home/max/Red/project/Pentest/security_containers/sslscan'
+let g:netrw_dirhist_0='/etc/ly'
+let g:netrw_dirhist_9='/etc/ly/custom-sessions'
+let g:netrw_dirhist_8='/etc/ly'
+let g:netrw_dirhist_7='/etc/dnf/plugins'
+let g:netrw_dirhist_6='/etc/dnf'
+let g:netrw_dirhist_5='/etc/dnf/modules.d'
+let g:netrw_dirhist_4='/etc/dnf'

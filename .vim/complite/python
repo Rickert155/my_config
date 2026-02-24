@@ -1,0 +1,9 @@
+requests
+BeautifulSoup
+KeyboardInterrupt
+subprocess
+stdout
+stderr
+capture_output
+threading
+Thread

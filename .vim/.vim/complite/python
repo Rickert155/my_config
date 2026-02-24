@@ -1,0 +1,10 @@
+requests
+BeautifulSoup
+KeyboardInterrupt
+FileNotFoundError
+subprocess
+stdout
+stderr
+capture_output
+threading
+Thread

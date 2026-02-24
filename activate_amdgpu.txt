@@ -1,0 +1,4 @@
+Это нужно добавить в параметры загрузчика и ребутнуть систему
+amdgpu.cik_support=1 radeon.cik_support=0
+
+В моем случае с systemd-boot это /efi/loader/entries/... .conf
